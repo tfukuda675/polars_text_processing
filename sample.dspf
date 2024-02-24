@@ -1,0 +1,14 @@
+*D_NET regcontrol_top/GRC/n13345 1.94482
+*CONN
+*I regcontrol_top/GRC/U9743:E I *C 537.855 9150.11 *L 3.70000
+*I regcontrol_top/GRC/U9409:A I *C 540.735 9146.02 *L 5.40000
+*I regcontrol_top/GRC/U9407:Z O *C 549.370 9149.88 *D OR2M1P
+*CAP
+1 regcontrol_top/GRC/U9743:E 0.936057
+2 regcontrol_top/GRC/U9409:A regcontrol_top/GRC/U10716:Z 0.622675
+3 regcontrol_top/GRC/U9407:Z 0.386093
+*RES
+1 regcontrol_top/GRC/U9743:E regcontrol_top/GRC/U9407:Z 10.7916
+2 regcontrol_top/GRC/U9743:E regcontrol_top/GRC/U9409:A 8.07710
+3 regcontrol_top/GRC/U9409:A regcontrol_top/GRC/U9407:Z 11.9156
+*END
